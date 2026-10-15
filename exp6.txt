@@ -1,2 +1,6 @@
 hello cmrit
+<<<<<<< HEAD
 changes made
+=======
+hello cmrit
+>>>>>>> feature-branch
