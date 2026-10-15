@@ -1,6 +1,2 @@
 hello cmrit
-<<<<<<< HEAD
-changes made
-=======
-hello cmrit
->>>>>>> feature-branch
+hello cmrit chn fb
